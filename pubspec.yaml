@@ -1,0 +1,20 @@
+name: fuel_calculator_v2
+description: แอปคำนวณอัตราสิ้นเปลืองน้ำมัน V2 - Real-time + GPS Tracking
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+  http: ^1.2.0
+  geolocator: ^10.1.0
+  permission_handler: ^11.3.0
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,5 @@
+<!-- เพิ่มใน ios/Runner/Info.plist -->
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>แอปต้องการเข้าถึง GPS เพื่อจับระยะทางการเดินทางคำนวณค่าน้ำมันโดยไม่ต้องจำเลขไมล์</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>แอปต้องการ GPS เบื้องหลังเพื่อจับระยะทางต่อเนื่อง</string>
